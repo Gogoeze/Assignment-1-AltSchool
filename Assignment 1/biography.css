@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(166, 189, 202);
+    color: black;
+    margin: 100px;
+}
+
+h1, h3, p{
+    font-family: cursive;
+    text-align: center;
+
+}
+
+a{
+    color: rgb(118, 5, 224);
+    text-align: left;
+    font-family: cursive;
+}
